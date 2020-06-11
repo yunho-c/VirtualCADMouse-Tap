@@ -10,6 +10,6 @@ There are three things you need:
 - [PyAutoGUI Module](https://pypi.org/project/PyAutoGUI/)
 - VirtualCADMouse-Tap file
 
-Extract the Python SDK to root directory of VirtualCADMouse-Tap file and run the  file!
+Extract the Python SDK to root directory of VirtualCADMouse-Tap file and run it!
 
 # [Release/Roadmap](https://www.notion.so/06cb9bd3e92942cdb81b5037aa2f7e72?v=8cc7d7ec59bb4427a1a0771775d920dd)
