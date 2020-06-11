@@ -1,6 +1,6 @@
 
 # VirtualCADMouse-Tap
-Directly interact with 3D view in 3D modeling & CAD software!
+Directly interact with 3D view in CAD software and Blender!
 
 (Demo YouTube Embed)
 
