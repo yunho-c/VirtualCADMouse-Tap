@@ -8,7 +8,7 @@ Directly interact with 3D view in 3D modeling & CAD software!
 There are three things you need:
 - [Tap Python SDK](https://github.com/TapWithUs/tap-python-sdk) 
 - [PyAutoGUI Module](https://pypi.org/project/PyAutoGUI/)
-- VirtualCADMouse-Tap file
+- [VirtualCADMouse-Tap file](https://github.com/k2m5t2/VirtualCADMouse-Tap/archive/master.zip)
 
 Extract the Python SDK to root directory of VirtualCADMouse-Tap file and run it!
 
